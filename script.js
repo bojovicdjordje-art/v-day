@@ -11,7 +11,7 @@ const gifStages = [
 
 const noMessages = [
     "Ne",
-    "Jesi li okej? 🤔",
+    "Natasa, jesi ok? 🤔",
     "Nale molim tee... 🥺",
     "Ako kazes ne, bicu jaako ljut...",
     "OK, ljut sam... 😢",
@@ -24,7 +24,7 @@ const noMessages = [
 const yesTeasePokes = [
     "Pritisni prvo ne... Sigurno te zanima sta ide posle 😏",
     "AEEE, pritisni ne... samo jednom 👀",
-    "Promasajjjj 😈",
+    "Promasajjj 😈",
     "Idi na ne, izazivam te 😏"
 ]
 
